@@ -1,5 +1,5 @@
 ---
-title: "STOR 390 Final Project"
+title: "The Impact of VAR: Balancing Technology and Tradition in Soccer"
 author: "Keegan Burr"
 date: "2024-12-11"
 output:
